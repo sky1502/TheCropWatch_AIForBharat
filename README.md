@@ -1,4 +1,4 @@
-# TheNightWatch_AIForBharat
+# TheCropWatch_AIForBharat
 
 ## Farmer Profit Advisor (Hackathon MVP)
 
